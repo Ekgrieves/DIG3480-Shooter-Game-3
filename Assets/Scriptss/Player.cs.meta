@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 02a2ddb0db2be6e4fa1ae5f171bc0325
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameManager: {instanceID: 0}
+  - enemy: {instanceID: 0}
+  - explosion: {instanceID: 0}
+  - bullet: {instanceID: 0}
+  - thruster: {instanceID: 0}
+  - shield: {instanceID: 0}
+  - shieldPowerUpSound: {fileID: 8300000, guid: d768c102bebb9254b829e07d2a70cc83, type: 3}
+  - shieldPowerDownSound: {fileID: 8300000, guid: 90a2fb5ab1ffb304ab1c0cafa24f25d4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
